@@ -68,6 +68,10 @@
     "subtitle": "Bekijk wanneer Casa Lolle beschikbaar is",
     "booked": "Geboekt",
     "available": "Beschikbaar",
+    "selected": "Geselecteerd",
+    "selectPrompt": "Klik op de data in de kalender om uw verblijf te kiezen",
+    "clearSelection": "Selectie wissen",
+    "nights": "{count, plural, one {# nacht} other {# nachten}}",
     "checkIn": "Inchecken: 15:00",
     "checkOut": "Uitchecken: 10:00",
     "minStay": "Minimaal verblijf: 1 nacht (kan per seizoen verschillen)",
@@ -158,6 +162,7 @@
     "checkOut": "Uitchecken",
     "guests": "Gasten",
     "message": "Bericht",
+    "datesTip": "Tip: selecteer uw data door op de kalender hierboven te klikken — geboekte dagen worden automatisch uitgesloten.",
     "submit": "Boekingsaanvraag versturen",
     "success": "Bedankt! Uw aanvraag is verzonden. We nemen zo snel mogelijk contact met u op.",
     "error": "Er is iets misgegaan. Probeer het opnieuw."

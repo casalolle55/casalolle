@@ -5,6 +5,7 @@ import { Inter, Playfair_Display } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import Navigation from "@/components/layout/Navigation";
 import Footer from "@/components/layout/Footer";
+import { BookingSelectionProvider } from "@/components/BookingSelectionProvider";
 import type { Metadata } from "next";
 import "../globals.css";
 
@@ -57,9 +58,11 @@ export default async function LocaleLayout({ children, params }: Props) {
     <html lang={locale} className={`${inter.variable} ${playfair.variable}`}>
       <body className="font-sans antialiased">
         <NextIntlClientProvider messages={messages}>
-          <Navigation />
-          <main>{children}</main>
-          <Footer />
+          <BookingSelectionProvider>
+            <Navigation />
+            <main>{children}</main>
+            <Footer />
+          </BookingSelectionProvider>
         </NextIntlClientProvider>
       </body>
     </html>

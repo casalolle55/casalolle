@@ -2,9 +2,15 @@
 
 import { useTranslations } from "next-intl";
 import { useState } from "react";
+import {
+  dateToISO,
+  isoToDate,
+  useBookingSelection,
+} from "@/components/BookingSelectionProvider";
 
 export default function ContactForm() {
   const t = useTranslations("contact");
+  const { checkIn, checkOut, setCheckInManual, setCheckOutManual } = useBookingSelection();
   const [status, setStatus] = useState<"idle" | "sending" | "success" | "error">("idle");
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
@@ -15,8 +21,8 @@ export default function ContactForm() {
     const data = {
       name: (form.elements.namedItem("name") as HTMLInputElement).value,
       email: (form.elements.namedItem("email") as HTMLInputElement).value,
-      checkIn: (form.elements.namedItem("checkIn") as HTMLInputElement).value,
-      checkOut: (form.elements.namedItem("checkOut") as HTMLInputElement).value,
+      checkIn: dateToISO(checkIn),
+      checkOut: dateToISO(checkOut),
       guests: (form.elements.namedItem("guests") as HTMLInputElement).value,
       message: (form.elements.namedItem("message") as HTMLTextAreaElement).value,
     };
@@ -76,6 +82,8 @@ export default function ContactForm() {
                   type="date"
                   name="checkIn"
                   required
+                  value={dateToISO(checkIn)}
+                  onChange={(e) => setCheckInManual(isoToDate(e.target.value))}
                   className={inputClass}
                 />
               </div>
@@ -85,10 +93,13 @@ export default function ContactForm() {
                   type="date"
                   name="checkOut"
                   required
+                  value={dateToISO(checkOut)}
+                  onChange={(e) => setCheckOutManual(isoToDate(e.target.value))}
                   className={inputClass}
                 />
               </div>
             </div>
+            <p className="text-xs text-foreground/50 italic">{t("datesTip")}</p>
             <input
               type="number"
               name="guests"

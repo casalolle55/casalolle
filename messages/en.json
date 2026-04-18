@@ -68,6 +68,10 @@
     "subtitle": "Check when Casa Lolle is available",
     "booked": "Booked",
     "available": "Available",
+    "selected": "Selected",
+    "selectPrompt": "Click dates on the calendar to choose your stay",
+    "clearSelection": "Clear selection",
+    "nights": "{count, plural, one {# night} other {# nights}}",
     "checkIn": "Check-in: 3:00 PM",
     "checkOut": "Check-out: 10:00 AM",
     "minStay": "Minimum stay: 1 night (may vary by season)",
@@ -158,6 +162,7 @@
     "checkOut": "Check-out",
     "guests": "Guests",
     "message": "Message",
+    "datesTip": "Tip: pick your dates on the availability calendar above — booked days are automatically excluded.",
     "submit": "Send Booking Request",
     "success": "Thank you! Your request has been sent. We'll get back to you soon.",
     "error": "Something went wrong. Please try again."
