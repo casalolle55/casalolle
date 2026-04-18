@@ -9,8 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "#FAFAF8",
+        foreground: "#2C2C2C",
+        accent: "#8B7355",
+        secondary: "#4A6741",
+        terracotta: "#D4A574",
+        stone: "#E8E4DE",
+      },
+      fontFamily: {
+        serif: ["var(--font-playfair)", "Playfair Display", "Georgia", "serif"],
+        sans: ["var(--font-inter)", "Inter", "system-ui", "sans-serif"],
       },
     },
   },

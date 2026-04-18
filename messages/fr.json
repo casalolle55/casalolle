@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Casa Lolle — Maison en pierre en Toscane",
+    "description": "Une maison en pierre magnifiquement restaurée avec piscine privée et vue panoramique sur les montagnes dans les collines toscanes. 2 chambres, 4 couchages."
+  },
+  "nav": {
+    "property": "La propriété",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Casa Lolle",
+    "subtitle": "Une maison en pierre restaurée dans les collines toscanes",
+    "location": "Fabbriche di Casabasciana, Bagni di Lucca, Toscane",
+    "cta": "Vérifier la disponibilité"
+  },
+  "intro": {
+    "text": "Nichée à flanc de montagne à seulement 5 km du charmant Bagni di Lucca, Casa Lolle est une maison en pierre magnifiquement restaurée, entourée par la nature, avec une piscine privée et une vue panoramique sur les montagnes.",
+    "bedrooms": "2 chambres",
+    "bathrooms": "2 salles de bain",
+    "pool": "Piscine privée",
+    "sleeps": "4 couchages"
+  },
+  "property": {
+    "title": "La propriété",
+    "living": {
+      "title": "Le séjour",
+      "text": "Des baies vitrées du sol au plafond encadrent la vue sur les montagnes et donnent sur la piscine. Un poêle à bois assure une ambiance chaleureuse lors des soirées plus fraîches."
+    },
+    "bedroom": {
+      "title": "Les chambres",
+      "text": "Deux chambres avec vue panoramique sur les montagnes. Climatisation et linge de lit de qualité inclus."
+    },
+    "kitchen": {
+      "title": "La cuisine",
+      "text": "Murs en pierre d'origine, poutres apparentes. Entièrement équipée avec four, lave-vaisselle et coin repas pour quatre personnes."
+    },
+    "pool": {
+      "title": "La piscine",
+      "text": "Votre piscine privée avec vue sur les montagnes. Transats et parasols inclus."
+    }
+  },
+  "outdoor": {
+    "title": "Espaces extérieurs"
+  },
+  "amenities": {
+    "title": "Équipements",
+    "pool": "Piscine privée",
+    "stove": "Poêle à bois",
+    "bedrooms": "2 chambres",
+    "bathrooms": "2 salles de bain modernes",
+    "kitchen": "Cuisine entièrement équipée",
+    "dishwasher": "Lave-vaisselle",
+    "ac": "Climatisation",
+    "views": "Vue sur les montagnes",
+    "parking": "Parking privé",
+    "wifi": "Wi-Fi",
+    "laundry": "Lave-linge & sèche-linge",
+    "linens": "Linge de lit & serviettes inclus",
+    "bbq": "BBQ",
+    "crib": "Lit bébé disponible",
+    "smokeFree": "Propriété non-fumeur",
+    "noPets": "Animaux non admis",
+    "safety": "Détecteurs de sécurité"
+  },
+  "calendar": {
+    "title": "Disponibilité",
+    "subtitle": "Vérifiez quand Casa Lolle est disponible",
+    "booked": "Réservé",
+    "available": "Disponible",
+    "checkIn": "Arrivée : 15h00",
+    "checkOut": "Départ : 10h00",
+    "minStay": "Séjour minimum : 1 nuit (peut varier selon la saison)",
+    "months": {
+      "0": "Janvier",
+      "1": "Février",
+      "2": "Mars",
+      "3": "Avril",
+      "4": "Mai",
+      "5": "Juin",
+      "6": "Juillet",
+      "7": "Août",
+      "8": "Septembre",
+      "9": "Octobre",
+      "10": "Novembre",
+      "11": "Décembre"
+    },
+    "weekdays": {
+      "0": "Lu",
+      "1": "Ma",
+      "2": "Me",
+      "3": "Je",
+      "4": "Ve",
+      "5": "Sa",
+      "6": "Di"
+    }
+  },
+  "location": {
+    "title": "Comment s'y rendre",
+    "address": "Fabbriche di Casabasciana, Bagni di Lucca",
+    "region": "Province de Lucca, Toscane, Italie",
+    "distances": {
+      "bagni": "5 km de Bagni di Lucca",
+      "lucca": "33 km de Lucca",
+      "pisa": "67 km de l'aéroport de Pisa (~1h de route)",
+      "station": "9 km de la gare de Bagni di Lucca (trains vers Florence, Pisa & la côte)",
+      "supermarket": "Supermarché à 7 min en voiture",
+      "parking": "Parking privé sur place"
+    }
+  },
+  "thingsToDo": {
+    "title": "À faire",
+    "subtitle": "Explorez la Toscane depuis votre porte",
+    "beaches": {
+      "title": "Plages",
+      "text": "Viareggio, Forte dei Marmi & la côte de Pisa"
+    },
+    "adventure": {
+      "title": "Aventure",
+      "text": "Canyon Park (4 km), canyoning, rafting, SUP, VTT"
+    },
+    "culture": {
+      "title": "Culture",
+      "text": "Lucca (33 km), Florence, Pisa — musées, remparts historiques, Lucca Summer Festival (juillet)"
+    },
+    "golf": {
+      "title": "Golf",
+      "text": "Parcours à proximité avec 9 et 18 trous"
+    },
+    "swimming": {
+      "title": "Baignade sauvage",
+      "text": "Sites de baignade naturels sur la rivière Lima"
+    },
+    "winter": {
+      "title": "Sports d'hiver",
+      "text": "Domaine skiable d'Abetone (33 km)"
+    },
+    "shopping": {
+      "title": "Shopping",
+      "text": "Barberino Designer Outlet"
+    },
+    "villages": {
+      "title": "Villages",
+      "text": "Barga, Castelnuovo, Casabasciana, Vico Pancellorum"
+    },
+    "dining": {
+      "title": "Restaurants locaux",
+      "text": "Villa Aurora, 2 bars/trattorias & une charcuterie locale dans le village"
+    },
+    "nearby": "Également à proximité : Prato Fiorito (7 km), Orrido di Botri (19 km), Grotta del Vento (34 km), Marlia Villa Reale (26 km)"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Intéressé par un séjour à Casa Lolle ?",
+    "name": "Nom",
+    "email": "E-mail",
+    "checkIn": "Arrivée",
+    "checkOut": "Départ",
+    "guests": "Voyageurs",
+    "message": "Message",
+    "submit": "Envoyer la demande de réservation",
+    "success": "Merci ! Votre demande a été envoyée. Nous vous répondrons dans les plus brefs délais.",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "footer": {
+    "location": "Fabbriche di Casabasciana, Bagni di Lucca, Toscane, Italie"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "back": "Retour à l'accueil"
+  }
+}

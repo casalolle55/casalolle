@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Casa Lolle — Stenen huisje in Toscane",
+    "description": "Een prachtig gerestaureerd stenen huisje met privézwembad en panoramisch uitzicht op de bergen in de Toscaanse heuvels. 2 slaapkamers, geschikt voor 4 personen."
+  },
+  "nav": {
+    "property": "Het huis",
+    "gallery": "Galerij",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Casa Lolle",
+    "subtitle": "Een gerestaureerd stenen huisje in de Toscaanse heuvels",
+    "location": "Fabbriche di Casabasciana, Bagni di Lucca, Toscane",
+    "cta": "Beschikbaarheid bekijken"
+  },
+  "intro": {
+    "text": "Verscholen op een berghelling op slechts 5 km van het charmante Bagni di Lucca, is Casa Lolle een prachtig gerestaureerd stenen huisje omgeven door natuur, met een privézwembad en panoramisch uitzicht op de bergen.",
+    "bedrooms": "2 slaapkamers",
+    "bathrooms": "2 badkamers",
+    "pool": "Privézwembad",
+    "sleeps": "4 personen"
+  },
+  "property": {
+    "title": "Het huis",
+    "living": {
+      "title": "De woonruimte",
+      "text": "Glazen wanden van vloer tot plafond omlijsten het uitzicht op de bergen en kijken uit over het zwembad. Een houtkachel zorgt voor gezelligheid op koelere avonden."
+    },
+    "bedroom": {
+      "title": "De slaapkamers",
+      "text": "Twee slaapkamers met panoramisch uitzicht op de bergen. Airconditioning en kwaliteitslinnen inbegrepen."
+    },
+    "kitchen": {
+      "title": "De keuken",
+      "text": "Originele stenen muren, zichtbare balken. Volledig uitgerust met oven, vaatwasser en eethoek voor vier personen."
+    },
+    "pool": {
+      "title": "Het zwembad",
+      "text": "Uw eigen privézwembad met uitzicht op de bergen. Ligstoelen en parasols inbegrepen."
+    }
+  },
+  "outdoor": {
+    "title": "Buitenruimtes"
+  },
+  "amenities": {
+    "title": "Voorzieningen",
+    "pool": "Privézwembad",
+    "stove": "Houtkachel",
+    "bedrooms": "2 slaapkamers",
+    "bathrooms": "2 moderne badkamers",
+    "kitchen": "Volledig uitgeruste keuken",
+    "dishwasher": "Vaatwasser",
+    "ac": "Airconditioning",
+    "views": "Uitzicht op de bergen",
+    "parking": "Privéparkeerplaats",
+    "wifi": "Wi-Fi",
+    "laundry": "Wasmachine & droger",
+    "linens": "Beddengoed & handdoeken inbegrepen",
+    "bbq": "BBQ",
+    "crib": "Reiswieg beschikbaar",
+    "smokeFree": "Rookvrij",
+    "noPets": "Geen huisdieren toegestaan",
+    "safety": "Veiligheidsdetectoren"
+  },
+  "calendar": {
+    "title": "Beschikbaarheid",
+    "subtitle": "Bekijk wanneer Casa Lolle beschikbaar is",
+    "booked": "Geboekt",
+    "available": "Beschikbaar",
+    "checkIn": "Inchecken: 15:00",
+    "checkOut": "Uitchecken: 10:00",
+    "minStay": "Minimaal verblijf: 1 nacht (kan per seizoen verschillen)",
+    "months": {
+      "0": "Januari",
+      "1": "Februari",
+      "2": "Maart",
+      "3": "April",
+      "4": "Mei",
+      "5": "Juni",
+      "6": "Juli",
+      "7": "Augustus",
+      "8": "September",
+      "9": "Oktober",
+      "10": "November",
+      "11": "December"
+    },
+    "weekdays": {
+      "0": "Ma",
+      "1": "Di",
+      "2": "Wo",
+      "3": "Do",
+      "4": "Vr",
+      "5": "Za",
+      "6": "Zo"
+    }
+  },
+  "location": {
+    "title": "Bereikbaarheid",
+    "address": "Fabbriche di Casabasciana, Bagni di Lucca",
+    "region": "Provincie Lucca, Toscane, Italië",
+    "distances": {
+      "bagni": "5 km van Bagni di Lucca",
+      "lucca": "33 km van Lucca",
+      "pisa": "67 km van luchthaven Pisa (~1 uur rijden)",
+      "station": "9 km van treinstation Bagni di Lucca (treinen naar Florence, Pisa & de kust)",
+      "supermarket": "Supermarkt op 7 min rijden",
+      "parking": "Privéparkeerplaats op het terrein"
+    }
+  },
+  "thingsToDo": {
+    "title": "Activiteiten",
+    "subtitle": "Ontdek Toscane vanuit uw voordeur",
+    "beaches": {
+      "title": "Stranden",
+      "text": "Viareggio, Forte dei Marmi & de kust van Pisa"
+    },
+    "adventure": {
+      "title": "Avontuur",
+      "text": "Canyon Park (4 km), canyoning, rafting, SUP, mountainbiken"
+    },
+    "culture": {
+      "title": "Cultuur",
+      "text": "Lucca (33 km), Florence, Pisa — musea, historische stadsmuren, Lucca Summer Festival (juli)"
+    },
+    "golf": {
+      "title": "Golf",
+      "text": "Nabijgelegen golfbanen met 9 en 18 holes"
+    },
+    "swimming": {
+      "title": "Wildzwemmen",
+      "text": "Natuurlijke zwemplekken in de rivier de Lima"
+    },
+    "winter": {
+      "title": "Wintersport",
+      "text": "Skigebied Abetone (33 km)"
+    },
+    "shopping": {
+      "title": "Winkelen",
+      "text": "Barberino Designer Outlet"
+    },
+    "villages": {
+      "title": "Dorpen",
+      "text": "Barga, Castelnuovo, Casabasciana, Vico Pancellorum"
+    },
+    "dining": {
+      "title": "Lokaal eten",
+      "text": "Villa Aurora, 2 bars/trattoria's & een lokale salumizaak in het dorp"
+    },
+    "nearby": "Ook in de buurt: Prato Fiorito (7 km), Orrido di Botri (19 km), Grotta del Vento (34 km), Marlia Villa Reale (26 km)"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Interesse in een verblijf bij Casa Lolle?",
+    "name": "Naam",
+    "email": "E-mail",
+    "checkIn": "Inchecken",
+    "checkOut": "Uitchecken",
+    "guests": "Gasten",
+    "message": "Bericht",
+    "submit": "Boekingsaanvraag versturen",
+    "success": "Bedankt! Uw aanvraag is verzonden. We nemen zo snel mogelijk contact met u op.",
+    "error": "Er is iets misgegaan. Probeer het opnieuw."
+  },
+  "footer": {
+    "location": "Fabbriche di Casabasciana, Bagni di Lucca, Toscane, Italië"
+  },
+  "gallery": {
+    "title": "Galerij",
+    "back": "Terug naar home"
+  }
+}

@@ -28,6 +28,11 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# service account credentials — never commit
+*service-account*.json
+probable-gizmo-*.json
+*-iam-gserviceaccount*.json
+
 # vercel
 .vercel
 
